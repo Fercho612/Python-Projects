@@ -1,0 +1,5 @@
+Calcular Macros/
+__pycache__/
+*.pyc
+.venv/
+venv/
